@@ -1,7 +1,8 @@
 # Frankenstein
-## 
+
 ### This is a game for seige
 ### This uses No Ai
+### The Goal of the game is to put together Frankenstein
 ## Movement
 ### Use WASD For movement. In some Scenes you can use Spacebar to jump
 ### Press I for turning on electrics and O for turning them off(They contain Bright Red outlines)
